@@ -1,0 +1,1 @@
+@javax.xml.bind.annotation.XmlSchema(namespace = "d;kfjpguidf", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED) package ru.sa2.football_stats;
